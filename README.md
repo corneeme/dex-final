@@ -79,14 +79,3 @@ Enhanced team building with full customization:
 - Theme (dark/light) stored in LocalStorage
 - Team (6 slots with nicknames and EVs) stored in LocalStorage
 
-## Recent Changes
-- 2025-11-15: Fixed move display in individual Pokémon detail view with improved validation and error handling
-- 2025-11-15: Added stat names (HP, Attack, Defense, Sp. Atk, Sp. Def, Speed) next to IV/EV inputs for clarity
-- 2025-11-15: Moved cycle button above hexagon, now shows colored indicator for NEXT layer (blue→yellow→purple)
-- 2025-11-15: Upgraded type chart with organized sections (Weaknesses/Resistances/Immunities), multiplier displays, and hover tooltips
-- 2025-11-14: Switched to pixelated sprites on main grid for retro aesthetic
-- 2025-11-14: Enhanced move information with power, accuracy, PP, damage class, and descriptions
-- 2025-11-14: Added Flask backend to proxy PokéAPI requests (fixes CORS issues)
-- 2025-11-14: Redesigned UI to be cleaner and less cluttered
-- 2025-11-14: Enhanced team builder with nicknames and EV editor
-- 2025-11-14: Removed stat filters and damage calculator per user request
